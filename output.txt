@@ -1,0 +1,7 @@
+['Page failed to load so could not scrape.',
+ {'number_of_bedrooms': '1 bed',
+  'property_type': 'tiny house',
+  'title': 'Tiny house hosted by Tanya'},
+ {'number_of_bedrooms': '1 bed',
+  'property_type': 'guest house',
+  'title': 'Entire guest house hosted by Nicola'}]
